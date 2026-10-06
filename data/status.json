@@ -1,10 +1,11 @@
 {
   "current_month": "2026-10",
-  "state": "waiting_for_new_menu",
-  "last_updated": "2026-10-03T22:34:57Z",
-  "menu_month_detected": "2026-09",
+  "state": "updated",
+  "last_updated": "2026-10-06T14:37:35Z",
+  "menu_month_detected": "2026-10",
   "available_months": [
     "2026-05",
-    "2026-09"
+    "2026-09",
+    "2026-10"
   ]
 }
